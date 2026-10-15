@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "pls dont kill me",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "keeps server on",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "uae2244-RpbB.aternos.me",
-    "port": 63995,
+    "ip": "koentje0123.aternos.me",
+    "port": 18027,
     "version": "1.21.1"
   },
   "position": {
